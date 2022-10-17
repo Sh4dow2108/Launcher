@@ -1,8 +1,8 @@
 {
-    "name": "Galactofeuj",
-    "preductname": " Galactofeuj",
+    "name": "pacoLauncher",
+    "preductname": "pacoLauncher",
     "version": "1.0.1",
-    "description": " Galactofeuj",
+    "description": "pacoLauncher",
     "main": "src/app.js",
     "author": "test",
     "url": "http://tibo.glitch-pvp.fr",
